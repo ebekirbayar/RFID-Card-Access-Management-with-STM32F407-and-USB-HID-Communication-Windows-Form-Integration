@@ -1,0 +1,75 @@
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\ZedGraph.xml
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGiris.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGiris.csproj.GenerateResource.cache
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGiris.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGiris.csproj.CopyComplete
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGiris.MainApp.resources
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\Personel Giris App.exe.config
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\Personel Giris App.exe
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\bin\Debug\Personel Giris App.pdb
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\PersonelGirisApp.Properties.Resources.resources
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\Personel Giris App.exe
+C:\Users\mertr\Desktop\PersonelGiris\cSharp abs300 veri okuma\obj\Debug\Personel Giris App.pdb
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.exe.config
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.exe
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.pdb
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ZedGraph.xml
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.MainApp.resources
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGirisApp.Properties.Resources.resources
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.GenerateResource.cache
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CopyComplete
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.exe
+C:\Users\mertr\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.pdb
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.exe.config
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.exe
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\Personel Giris App.pdb
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ZedGraph.xml
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.AssemblyReference.cache
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.MainApp.resources
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGirisApp.Properties.Resources.resources
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.GenerateResource.cache
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CoreCompileInputs.cache
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CopyComplete
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.exe
+C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.pdb
