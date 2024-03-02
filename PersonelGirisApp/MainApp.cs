@@ -112,6 +112,7 @@ namespace PersonelGiris
 
                 if (ReceivingData.Length > 3)
                 {
+                    
                     int dataValue = ReceivingData[4];
 
                     switch (dataValue)

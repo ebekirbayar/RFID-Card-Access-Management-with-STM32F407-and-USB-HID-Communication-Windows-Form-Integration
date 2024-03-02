@@ -75,48 +75,50 @@
             this.toolStripTBAcii,
             this.toolS_baglan,
             this.lbl_mesaj2});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 290);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 358);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(592, 22);
+            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
+            this.statusStrip1.Size = new System.Drawing.Size(789, 26);
             this.statusStrip1.TabIndex = 36;
             this.statusStrip1.Text = "statusStrip1";
             // 
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(108, 17);
-            this.toolStripStatusLabel1.Text = "Bağlantı Bekleniyor";
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(148, 20);
+            this.toolStripStatusLabel1.Text = "Connection Waiting...";
+            this.toolStripStatusLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // toolStripTB_aci1
             // 
             this.toolStripTB_aci1.Name = "toolStripTB_aci1";
-            this.toolStripTB_aci1.Size = new System.Drawing.Size(0, 17);
+            this.toolStripTB_aci1.Size = new System.Drawing.Size(0, 20);
             // 
             // toolStripTBAcii
             // 
             this.toolStripTBAcii.Name = "toolStripTBAcii";
-            this.toolStripTBAcii.Size = new System.Drawing.Size(0, 17);
+            this.toolStripTBAcii.Size = new System.Drawing.Size(0, 20);
             // 
             // toolS_baglan
             // 
             this.toolS_baglan.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolS_baglan.Name = "toolS_baglan";
-            this.toolS_baglan.Size = new System.Drawing.Size(59, 20);
-            this.toolS_baglan.Text = "Bağlan";
+            this.toolS_baglan.Size = new System.Drawing.Size(82, 24);
+            this.toolS_baglan.Text = "Connect";
             this.toolS_baglan.ButtonClick += new System.EventHandler(this.toolS_baglan_ButtonClick);
             // 
             // lbl_mesaj2
             // 
             this.lbl_mesaj2.Name = "lbl_mesaj2";
-            this.lbl_mesaj2.Size = new System.Drawing.Size(0, 17);
+            this.lbl_mesaj2.Size = new System.Drawing.Size(0, 20);
             // 
             // buttonAlarm
             // 
             this.buttonAlarm.BackColor = System.Drawing.Color.Red;
-            this.buttonAlarm.Location = new System.Drawing.Point(319, 187);
-            this.buttonAlarm.Margin = new System.Windows.Forms.Padding(2);
+            this.buttonAlarm.Location = new System.Drawing.Point(425, 230);
+            this.buttonAlarm.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.buttonAlarm.Name = "buttonAlarm";
-            this.buttonAlarm.Size = new System.Drawing.Size(85, 34);
+            this.buttonAlarm.Size = new System.Drawing.Size(113, 42);
             this.buttonAlarm.TabIndex = 49;
             this.buttonAlarm.Text = "Alarm";
             this.buttonAlarm.UseVisualStyleBackColor = false;
@@ -126,111 +128,123 @@
             // 
             this.pictureBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox.Image")));
-            this.pictureBox.Location = new System.Drawing.Point(29, 13);
+            this.pictureBox.Location = new System.Drawing.Point(39, 16);
+            this.pictureBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(176, 220);
+            this.pictureBox.Size = new System.Drawing.Size(235, 271);
             this.pictureBox.TabIndex = 50;
             this.pictureBox.TabStop = false;
             // 
             // textBoxName
             // 
-            this.textBoxName.Location = new System.Drawing.Point(319, 24);
+            this.textBoxName.Location = new System.Drawing.Point(425, 30);
+            this.textBoxName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxName.Name = "textBoxName";
-            this.textBoxName.Size = new System.Drawing.Size(248, 20);
+            this.textBoxName.Size = new System.Drawing.Size(329, 22);
             this.textBoxName.TabIndex = 51;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(287, 27);
+            this.label3.Location = new System.Drawing.Point(363, 33);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(25, 13);
+            this.label3.Size = new System.Drawing.Size(49, 16);
             this.label3.TabIndex = 52;
-            this.label3.Text = "AD:";
+            this.label3.Text = "NAME:";
             // 
             // progressBarSES
             // 
-            this.progressBarSES.Location = new System.Drawing.Point(319, 241);
+            this.progressBarSES.Location = new System.Drawing.Point(425, 297);
+            this.progressBarSES.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.progressBarSES.Name = "progressBarSES";
-            this.progressBarSES.Size = new System.Drawing.Size(248, 21);
+            this.progressBarSES.Size = new System.Drawing.Size(331, 26);
             this.progressBarSES.TabIndex = 53;
             // 
             // buttonLogin
             // 
             this.buttonLogin.BackColor = System.Drawing.Color.Green;
-            this.buttonLogin.Location = new System.Drawing.Point(482, 187);
+            this.buttonLogin.Location = new System.Drawing.Point(643, 230);
+            this.buttonLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonLogin.Name = "buttonLogin";
-            this.buttonLogin.Size = new System.Drawing.Size(85, 34);
+            this.buttonLogin.Size = new System.Drawing.Size(113, 42);
             this.buttonLogin.TabIndex = 54;
-            this.buttonLogin.Text = "Kapıyı Aç";
+            this.buttonLogin.Text = "Open Door";
             this.buttonLogin.UseVisualStyleBackColor = false;
             this.buttonLogin.Click += new System.EventHandler(this.buttonGiris_Click);
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(266, 57);
+            this.label4.Location = new System.Drawing.Point(334, 70);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 13);
+            this.label4.Size = new System.Drawing.Size(78, 16);
             this.label4.TabIndex = 56;
-            this.label4.Text = "SOYAD:";
+            this.label4.Text = "SURNAME:";
             // 
             // textBoxSurname
             // 
-            this.textBoxSurname.Location = new System.Drawing.Point(319, 54);
+            this.textBoxSurname.Location = new System.Drawing.Point(425, 66);
+            this.textBoxSurname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxSurname.Name = "textBoxSurname";
-            this.textBoxSurname.Size = new System.Drawing.Size(248, 20);
+            this.textBoxSurname.Size = new System.Drawing.Size(329, 22);
             this.textBoxSurname.TabIndex = 55;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(291, 87);
+            this.label5.Location = new System.Drawing.Point(388, 107);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(21, 13);
+            this.label5.Size = new System.Drawing.Size(23, 16);
             this.label5.TabIndex = 58;
             this.label5.Text = "ID:";
             // 
             // textBoxId
             // 
-            this.textBoxId.Location = new System.Drawing.Point(319, 84);
+            this.textBoxId.Location = new System.Drawing.Point(425, 103);
+            this.textBoxId.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBoxId.Name = "textBoxId";
-            this.textBoxId.Size = new System.Drawing.Size(248, 20);
+            this.textBoxId.Size = new System.Drawing.Size(329, 22);
             this.textBoxId.TabIndex = 57;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(230, 249);
+            this.label6.Location = new System.Drawing.Point(307, 306);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(82, 13);
+            this.label6.Size = new System.Drawing.Size(103, 16);
             this.label6.TabIndex = 60;
-            this.label6.Text = "SES SEVİYESİ:";
+            this.label6.Text = "SOUND LEVEL:";
             // 
             // labelSound
             // 
             this.labelSound.AutoSize = true;
-            this.labelSound.Location = new System.Drawing.Point(439, 244);
+            this.labelSound.Location = new System.Drawing.Point(585, 300);
+            this.labelSound.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelSound.Name = "labelSound";
-            this.labelSound.Size = new System.Drawing.Size(13, 13);
+            this.labelSound.Size = new System.Drawing.Size(14, 16);
             this.labelSound.TabIndex = 61;
             this.labelSound.Text = "0";
             // 
             // buttonInfo
             // 
             this.buttonInfo.BackColor = System.Drawing.Color.Yellow;
-            this.buttonInfo.Location = new System.Drawing.Point(29, 239);
+            this.buttonInfo.Location = new System.Drawing.Point(39, 294);
+            this.buttonInfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonInfo.Name = "buttonInfo";
-            this.buttonInfo.Size = new System.Drawing.Size(176, 23);
+            this.buttonInfo.Size = new System.Drawing.Size(235, 28);
             this.buttonInfo.TabIndex = 62;
-            this.buttonInfo.Text = "Kart Bekleniyor...";
+            this.buttonInfo.Text = "Card Waiting...";
             this.buttonInfo.UseVisualStyleBackColor = false;
             // 
             // MainApp
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(592, 312);
+            this.ClientSize = new System.Drawing.Size(789, 384);
             this.Controls.Add(this.buttonInfo);
             this.Controls.Add(this.labelSound);
             this.Controls.Add(this.label6);
@@ -245,10 +259,10 @@
             this.Controls.Add(this.pictureBox);
             this.Controls.Add(this.buttonAlarm);
             this.Controls.Add(this.statusStrip1);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "MainApp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Personel Giriş Sistemi";
+            this.Text = "Card Access Management";
             this.Load += new System.EventHandler(this.MainApp_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();

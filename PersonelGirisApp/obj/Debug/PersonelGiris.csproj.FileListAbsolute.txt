@@ -73,3 +73,28 @@ C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.cs
 C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CopyComplete
 C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.exe
 C:\Users\amore\Desktop\PersonelGiris\PersonelGirisApp\obj\Debug\Personel Giris App.pdb
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\Personel Giris App.exe.config
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\Personel Giris App.exe
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\Personel Giris App.pdb
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\ZedGraph.xml
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.AssemblyReference.cache
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGiris.MainApp.resources
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGirisApp.Properties.Resources.resources
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.GenerateResource.cache
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CoreCompileInputs.cache
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\PersonelGiris.csproj.CopyComplete
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\Personel Giris App.exe
+C:\Users\Han\Desktop\RFID-Card-Access-Management-with-STM32F407-and-USB-HID-Communication-Windows-Form-Integration-main\PersonelGirisApp\obj\Debug\Personel Giris App.pdb

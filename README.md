@@ -58,6 +58,10 @@ Visual feedback on the computer interface.
 
 ## Getting Started
 
+<p align="center">
+    <img src="images/1.png" alt="Logo" width="80" height="80">
+</p>
+
 To get started with this project, follow these steps:
 
 ### Prerequisites
